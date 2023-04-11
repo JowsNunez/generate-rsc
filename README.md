@@ -2,7 +2,7 @@
 
 * Usage
 
-![image](./imgs/Example.gif)
+![image](/imgs/Example.gif)
 
 
 

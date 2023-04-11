@@ -1,4 +1,4 @@
-# Create Repository, Service and Controller with a Entity
+# Create Repository, Service and Controller from an Entity
 
 * Usage
 

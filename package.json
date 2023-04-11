@@ -1,7 +1,7 @@
 {
   "name": "generate-rsc",
   "displayName": "generate RSC",
-  "description": "Create Repository, Service and Controller with a Entity",
+  "description": "Create Repository, Service and Controller from an Entity",
   "version": "0.0.1",
   "publisher": "JowsNunez",
   "repository": {

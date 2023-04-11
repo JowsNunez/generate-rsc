@@ -3,6 +3,7 @@
   "displayName": "generate RSC",
   "description": "Create Repository, Service and Controller with a Entity",
   "version": "0.0.1",
+  "publisher": "JowsNunez",
   "repository": {
     "type": "git",
     "url": "https://github.com/JowsNunez/generate-rsc.git"
